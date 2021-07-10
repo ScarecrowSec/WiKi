@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [操作系统漏洞](book/操作系统漏洞/README.md)
   * [Linux kernel权限提升漏洞 CVE-2021-3493](book/操作系统漏洞/Linux kernel权限提升漏洞 CVE-2021-3493.md)
-  * * [win11漏洞](book/操作系统漏洞/win11漏洞.md)
+  * [win11漏洞](book/操作系统漏洞/win11漏洞.md)
 * [服务器应用漏洞](book/服务器应用漏洞/README.md)
   * [HongKe ntopng 流量分析系统 权限绕过漏洞 CVE-2021-28073](book/服务器应用漏洞/HongKe ntopng 流量分析系统 权限绕过漏洞 CVE-2021-28073.md)
 * [开发框架漏洞](book/开发框架漏洞/README.md)
